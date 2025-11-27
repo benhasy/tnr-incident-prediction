@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+jinja2
+scikit-learn
+mlflow
+xgboost
+joblib
+datetime
+streamlit
